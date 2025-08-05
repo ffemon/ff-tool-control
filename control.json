@@ -1,5 +1,6 @@
 {
-  "password": "FFBDPE0",
   "status": "ON",
-  "user_count": 0
+  "password": "1234",
+  "usage": 0,
+  "banned": ["deviceID123", "deviceID456"]
 }
