@@ -1,6 +1,6 @@
 {
   "status": "ON",
   "password": "1234",
-  "usage": 0,
+  "usage": 10,
   "banned": ["deviceID123", "deviceID456"]
 }
