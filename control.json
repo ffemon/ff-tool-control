@@ -1,9 +1,12 @@
 {
   "status": "ON",
-  "password": "1234",
   "users": {
     "emon": "1234",
-    "admin": "abcd"
+    "admin": "abcd",
+    "guest": "guestpass"
   },
+  "banned": [
+    "guest"
+  ],
   "usage": 0
 }
