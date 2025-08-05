@@ -1,6 +1,9 @@
 {
   "status": "ON",
   "password": "1234",
+    "emon123": "1234",
+    "sakib": "6251",
+    "rahat": "abcd"
   "usage": 10,
   "banned": ["deviceID123", "deviceID456"]
 }
