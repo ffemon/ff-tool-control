@@ -1,19 +1,5 @@
 {
-  "tool_password": "FFBDPE0",
-  "tool_status": "ON",
-  },
-  "users": [
-    {
-      "user_id": "emon1",
-      "password": "emon1",
-      "expiry_date": "2025-08-30",
-      "usage_count": 3
-    },
-    {
-      "user_id": "family01",
-      "password": "Family123",
-      "expiry_date": "2025-08-25",
-      "usage_count": 1
-    }
-  ]
+"status": "ON",
+"password": "FFBDPEO",
+"usage": 500
 }
