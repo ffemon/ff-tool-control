@@ -2,5 +2,8 @@
   "status": "ON",
   "password": "DARK_FF_GHOST",
   "usage": 200,
-  "user_count": 2
+  "user_count": 3,
+  "devices": [
+    "414d0228ebb971b8"
+  ]
 }
