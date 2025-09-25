@@ -1,5 +1,6 @@
 {
-"status": "ON",
-"password": "DARK_FF_GHOST",
-"usage": 200
+  "status": "ON",
+  "password": "DARK_FF_GHOST",
+  "usage": 200,
+  "user_count": 1
 }
