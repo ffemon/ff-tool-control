@@ -1,7 +1,7 @@
 {
   "status": "OFF",
   "password": "DARK_FF_GHOST",
-  "max_users": 1,
+  "max_users": 50,
   "users": {
   }
 }
